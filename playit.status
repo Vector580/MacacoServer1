@@ -10231,8 +10231,10 @@ offers-upgrades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 TUNNELS
 january-coat.gl.at.ply.gg:3184 => 127.0.0.1:3184 (minecraft-bedrock)
 offers-upgrades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-ades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726899837850 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+9837850 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -13280,3 +13282,6 @@ offers-upgrades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 TUNNELS
 january-coat.gl.at.ply.gg:3184 => 127.0.0.1:3184 (minecraft-bedrock)
 offers-upgrades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
