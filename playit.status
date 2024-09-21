@@ -6256,13 +6256,13 @@ offers-upgrades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-nels registered
+[2J8[0mplayit (v0.15.23): 1726899267059 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 january-coat.gl.at.ply.gg:3184 => 127.0.0.1:3184 (minecraft-bedrock)
 offers-upgrades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726897243752 tunnel running, 2 tunnels registered
+nels registered
 
 
 TUNNELS
@@ -9325,3 +9325,9 @@ offers-upgrades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726899266953 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+january-coat.gl.at.ply.gg:3184 => 127.0.0.1:3184 (minecraft-bedrock)
+offers-upgrades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
